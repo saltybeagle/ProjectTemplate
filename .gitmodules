@@ -1,0 +1,6 @@
+[submodule "vendor/Savvy"]
+	path = vendor/Savvy
+	url = https://github.com/saltybeagle/Savvy.git
+[submodule "vendor/RegExpRouter"]
+	path = vendor/RegExpRouter
+	url = https://github.com/unl/RegExpRouter.git
